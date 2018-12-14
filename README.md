@@ -15,3 +15,21 @@ protocol and APIs.
 |[UIP-0017](https://github.com/dtr-org/uips/blob/master/UIP-0017.md)|No Nonce or Extra Nonce|Draft|2018-11-05|
 |[UIP-0018](https://github.com/dtr-org/uips/blob/master/UIP-0018.md)|unit-e Transaction Types|Draft|2018-11-02|
 |[UIP-0021](https://github.com/dtr-org/uips/blob/master/UIP-0021.md)|Transfer Esperanza Transactions|Draft|2018-11-08|
+
+The UnitE team is committed to fostering a welcoming and harassment-free
+environment. All participants are expected to adhere to our [code of
+conduct](CODE_OF_CONDUCT.md).
+
+## Contributing
+
+Unit-e is a community effort. Ideas, input, comments, new concepts are all very
+welcome. If you want to create a proposal for improving Unit-e, follow the
+[contribution guidelines](CONTRIBUTING.md). They will guide you through the
+process.
+
+## License
+
+The content of this repository is dual-licensed under
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/) and
+[MIT](https://opensource.org/licenses/MIT). See the license text in
+[LICENSE-CC0](LICENSE-CC0) and [LICENSE-MIT](LICENSSE-MIT).
