@@ -32,4 +32,4 @@ process.
 The content of this repository is dual-licensed under
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) and
 [MIT](https://opensource.org/licenses/MIT). See the license text in
-[LICENSE-CC0](LICENSE-CC0) and [LICENSE-MIT](LICENSSE-MIT).
+[LICENSE-CC0](LICENSE-CC0) and [LICENSE-MIT](LICENSE-MIT).
