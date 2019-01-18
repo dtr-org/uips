@@ -12,7 +12,7 @@ protocol and APIs.
 |[UIP-0009](https://github.com/dtr-org/uips/blob/master/UIP-0009.md)|Validator permissioning specification|Draft|2018-10-02|
 |[UIP-0011](https://github.com/dtr-org/uips/blob/master/UIP-0011.md)|Snapshot|Draft|2018-10-09|
 |[UIP-0012](https://github.com/dtr-org/uips/blob/master/UIP-0012.md)|Fork choice rule|Draft|2018-10-17|
-|[UIP-0015](https://github.com/dtr-org/uips/blob/master/UIP-0015.md)|Remote staking|Draft|2018-12-20|
+|[UIP-0015](https://github.com/dtr-org/uips/blob/master/UIP-0015.md)|Remote staking|Proposed|2018-12-20|
 |[UIP-0017](https://github.com/dtr-org/uips/blob/master/UIP-0017.md)|No Nonce or Extra Nonce|Draft|2018-11-05|
 |[UIP-0018](https://github.com/dtr-org/uips/blob/master/UIP-0018.md)|unit-e Transaction Types|Draft|2018-11-02|
 |[UIP-0021](https://github.com/dtr-org/uips/blob/master/UIP-0021.md)|Transfer Esperanza Transactions|Draft|2018-11-08|
