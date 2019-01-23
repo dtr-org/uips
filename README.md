@@ -16,6 +16,7 @@ protocol and APIs.
 |[UIP-0017](https://github.com/dtr-org/uips/blob/master/UIP-0017.md)|No Nonce or Extra Nonce|Draft|2018-11-05|
 |[UIP-0018](https://github.com/dtr-org/uips/blob/master/UIP-0018.md)|unit-e Transaction Types|Draft|2018-11-02|
 |[UIP-0021](https://github.com/dtr-org/uips/blob/master/UIP-0021.md)|Transfer Esperanza Transactions|Draft|2018-11-08|
+|[UIP-0024](https://github.com/dtr-org/uips/blob/master/UIP-0024.md)|CTOR - Canonical Transactions Ordering|Draft|2018-12-14|
 
 The UnitE team is committed to fostering a welcoming and harassment-free
 environment. All participants are expected to adhere to our [code of
