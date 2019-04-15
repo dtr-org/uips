@@ -17,6 +17,7 @@ protocol and APIs.
 |[UIP-0018](https://github.com/dtr-org/uips/blob/master/UIP-0018.md)|unit-e Transaction Types|Draft|2018-11-02|
 |[UIP-0021](https://github.com/dtr-org/uips/blob/master/UIP-0021.md)|Transfer Esperanza Transactions|Draft|2018-11-08|
 |[UIP-0024](https://github.com/dtr-org/uips/blob/master/UIP-0024.md)|CTOR - Canonical Transactions Ordering Rule|Proposed|2018-12-14|
+|[UIP-0026](https://github.com/dtr-org/uips/blob/master/UIP-0026.md)|Graphene - block propagation protocol|Proposed|2019-02-21|
 
 The UnitE team is committed to fostering a welcoming and harassment-free
 environment. All participants are expected to adhere to our [code of
